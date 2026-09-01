@@ -1,6 +1,6 @@
 // *** DO NOT ADD DEPENDENCIES TO THIS FILE ****
 
-val scala3Version = "3.7.2" // Change this if needs be
+val scala3Version = "3.3.8"
 
 lazy val root = project
   .in(file("."))
